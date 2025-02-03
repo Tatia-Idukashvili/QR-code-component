@@ -31,7 +31,7 @@ body {
     gap: 14px;
     padding: 15px 6px;
 }
-.component-text h3 {
+.component-text h1 {
     color: hsl(218, 44%, 22%);
     font-size: 18px;
 }
